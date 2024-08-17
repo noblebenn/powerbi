@@ -7,7 +7,7 @@ This project focuses on creating a comprehensive Power BI dashboard to monitor a
 The primary objective of this dashboard is to help healthcare administrators track the current status of patient waiting lists, analyze historical trends, and conduct in-depth specialty and age profile analysis. The dashboard was developed following a structured process that includes data collection, transformation, and visualization.
 
 ## Dataset
-- **Source**: [Link to Dataset](Patient Wait List/Data)
+- **Source**: [Dataset](https://github.com/noblebenn/powerbi/tree/72524c17cc37aa1d304538f284a93333a140c701/Patient%20Wait%20List/Data)
 - **Type**: Healthcare data from 2018 to 2021
 - **Categories**:
   - **Inpatient**: Patients admitted for treatment.
@@ -79,8 +79,9 @@ The primary objective of this dashboard is to help healthcare administrators tra
 This dashboard serves as a powerful tool for healthcare administrators, providing a clear view of patient waiting lists and enabling informed decision-making. The process of building this dashboard has reinforced my skills in data analysis, visualization, and dashboard design.
 
 ## Repository Structure
-- **Dataset**: [Link to Dataset](#)
-- **Dashboard File**: [Link to Power BI File](#)
+- **Dataset**: [Dataset](https://github.com/noblebenn/powerbi/tree/72524c17cc37aa1d304538f284a93333a140c701/Patient%20Wait%20List/Data)
+- **Dashboard File**: [Power BI File](https://github.com/noblebenn/powerbi/blob/c1c9fbf95cfad802e82df1c2962a4dc839c9c90d/Patient%20Wait%20List/project.pbix)
+- **Preview pdf of the Dashboard**:[Pdf Preview](https://github.com/noblebenn/powerbi/blob/c1c9fbf95cfad802e82df1c2962a4dc839c9c90d/Patient%20Wait%20List/project.pbix)
 - **Documentation**: This README file and any additional documentation.
 
 ## How to Use
