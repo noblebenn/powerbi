@@ -81,7 +81,7 @@ This dashboard serves as a powerful tool for healthcare administrators, providin
 ## Repository Structure
 - **Dataset**: [Dataset](https://github.com/noblebenn/powerbi/tree/72524c17cc37aa1d304538f284a93333a140c701/Patient%20Wait%20List/Data)
 - **Dashboard File**: [Power BI File](https://github.com/noblebenn/powerbi/blob/c1c9fbf95cfad802e82df1c2962a4dc839c9c90d/Patient%20Wait%20List/project.pbix)
-- **Preview pdf of the Dashboard**:[Pdf Preview](https://github.com/noblebenn/powerbi/blob/c1c9fbf95cfad802e82df1c2962a4dc839c9c90d/Patient%20Wait%20List/project.pbix)
+- **Preview pdf of the Dashboard**:[Pdf Preview](https://github.com/noblebenn/powerbi/blob/b9777dd863c2136236769454b417fac21d97e9af/Patient%20Wait%20List/Wait%20List%20Comparison.pdf)
 - **Documentation**: This README file and any additional documentation.
 
 ## How to Use
