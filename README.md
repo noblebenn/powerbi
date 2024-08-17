@@ -7,7 +7,7 @@ This project focuses on creating a comprehensive Power BI dashboard to monitor a
 The primary objective of this dashboard is to help healthcare administrators track the current status of patient waiting lists, analyze historical trends, and conduct in-depth specialty and age profile analysis. The dashboard was developed following a structured process that includes data collection, transformation, and visualization.
 
 ## Dataset
-- **Source**: [Link to Dataset](#)
+- **Source**: [Link to Dataset](Patient Wait List/Data)
 - **Type**: Healthcare data from 2018 to 2021
 - **Categories**:
   - **Inpatient**: Patients admitted for treatment.
